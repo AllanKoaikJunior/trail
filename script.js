@@ -1,3 +1,3 @@
-console.log("Hello World")
+let myVar = "This is a string of characters";
 
-let myVar = '"is some string';
+console.log(myVar);
